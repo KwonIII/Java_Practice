@@ -14,6 +14,7 @@ public class Prac02 {
 	        String b = sc.next();
 	        
 	        System.out.print(a+b);
+	        sc.close();
 	}
 
 }

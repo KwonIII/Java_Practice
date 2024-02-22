@@ -14,6 +14,9 @@ public class Prac04 {
 			System.out.printf("%d is even",n);
 		else
 			System.out.printf("%d is odd",n);
+		
+		sc.close();
 	}
+
 
 }
